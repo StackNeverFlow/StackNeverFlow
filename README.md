@@ -29,3 +29,7 @@ Hi, I'm Linus L., a passionate full stack developer from Germany.
 <a href="https://github.com/StackNeverFlow/StackNeverFlow">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=StackNeverFlow&show_icons=true&theme=radical&line_height=27" alt="StackNeverFlow" />
 </a>
+
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
